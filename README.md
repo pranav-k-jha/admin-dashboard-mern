@@ -24,4 +24,4 @@ This project involves building an Admin Dashboard using the MERN (MongoDB, Expre
   - Implementation of aggregate calls in MongoDB for performing advanced data aggregation operations.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
