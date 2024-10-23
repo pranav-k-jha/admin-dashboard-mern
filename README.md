@@ -2,7 +2,7 @@
 
 This project involves building an Admin Dashboard using the MERN (MongoDB, Express.js, React, Node.js) stack. The frontend will be developed using Material UI, Material UI Data Grid, Nivo Charts, Redux Toolkit, and Redux Toolkit Query. The backend will utilize Node.js, Express.js, Mongoose, and MongoDB. Additionally, the project will cover data modeling using Entity Relationship Diagrams (ERDs) and making aggregate calls in MongoDB.
 
-<!-- ## Features and Technologies Used
+## Features and Technologies Used
 
 - **Frontend Technologies**:
   - Material UI: A popular React UI framework for building sleek and responsive user interfaces.
@@ -24,4 +24,4 @@ This project involves building an Admin Dashboard using the MERN (MongoDB, Expre
   - Implementation of aggregate calls in MongoDB for performing advanced data aggregation operations.
 
 ## License
-This project is licensed under the MIT License. -->
+This project is licensed under the MIT License. 
